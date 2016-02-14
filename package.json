@@ -27,7 +27,7 @@
     "sjcl": "^1.0.3"
   },
   "optionalDependencies":{
-    "ecc-qj" : "git+https://github.com/rynomad/ecc.git"
+    "ecc" : "jvanveen/ecc#feature/nan-2.1.0"
   },
   "devDependencies": {
     "chext": "0.0.1",
